@@ -32,11 +32,12 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 20. **[Classification II](lectures/L20_classification.ipynb)**. Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
 21. **[Deep learning I](lectures/L21_deeplearning.ipynb)**. Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
 22. **[Deep learning II](lectures/L22_deeplearning.ipynb)**. TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
+23. **[Deep learning III](lectures/L23_transformers_llms.ipynb)**. Transformers. Self-attention. Positional encodings. Encoder and decoder architectures. Large language models. Retrieval-augmented generation. *
 
 ##### Additional lectures not covered in class
 
-23. **[Time series analysis I](lectures/extra/L23_timeseries.ipynb)**. Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
-24. **[Time series analysis II](lectures/extra/L24_timeseries.ipynb)**. Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
+24. **[Time series analysis I](lectures/extra/L23_timeseries.ipynb)**. Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
+25. **[Time series analysis II](lectures/extra/L24_timeseries.ipynb)**. Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
 
 \* = Time to get your hands dirty!
 
@@ -152,5 +153,4 @@ This class draws heavily from many others that came before me. Credit goes to:
 </p>
 
 Credit: [xkcd 2582](https://xkcd.com/2582/)
-
 
