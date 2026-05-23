@@ -32,7 +32,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 20. **[Classification II](lectures/L20_classification.ipynb)**. Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
 21. **[Deep learning I](lectures/L21_deeplearning.ipynb)**. Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
 22. **[Deep learning II](lectures/L22_deeplearning.ipynb)**. TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
-23. **[Deep learning III](lectures/L23_transformers_llms.ipynb)**. Transformers. Self-attention. Positional encodings. Encoder and decoder architectures. Large language models. Retrieval-augmented generation. *
+23. **[Deep learning III](lectures/L23_deeplearning.ipynb)**. Transformers. Tokens. Self-attention. GPTs. Large language models. 
 
 ##### Additional lectures not covered in class
 
@@ -66,17 +66,18 @@ There are many **other good resources** in astrostatistics, here is a partial li
 - ["Bayesian Logical Data Analysis for the Physical Sciences",](https://www.cambridge.org/core/books/bayesian-logical-data-analysis-for-the-physical-sciences/09E9A95DAE275F5B005676C71B542598) Gregory. Cambridge University Press, 2005.
 - ["Modern Statistical Methods For Astronomy" Feigelson and Babu.](https://www.cambridge.org/core/books/modern-statistical-methods-for-astronomy/941AE392A553D68DD7B02491BB66DDEC) Cambridge University Press, 2012.
 - ["Information theory, inference, and learning algorithms"](https://www.inference.org.uk/mackay/itila/book.html) MacKay. Cambridge University Press, 2003. Free!  
+- [Bayesian inference: More than Bayes's theorem](https://arxiv.org/abs/2406.18905) Loredo and Wolpert, 2024 [arXiv:2005.14199]
+-  ["Practical Guidance for Bayesian Inference in Astronomy"](https://arxiv.org/abs/2302.04703), Eadie et al., 2023 [arXiv:2302.04703]
+- ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Geron, O'Reilly Media, 2019.
+- ["Machine Learning for Physics and Astronomy"](https://press.princeton.edu/books/paperback/9780691206417/machine-learning-for-physics-and-astronomy), Acquaviva, Princeton University Press, 2023.
+- ["A review of Unsupervised Learning in Astronomy"](https://arxiv.org/abs/2406.17316), S. Fotopoulou et al., 2024.
+- ["Statistical Machine Learning for Astronomy](https://arxiv.org/abs/2506.12230), Y.-S. Ting, 2025
 - “Data analysis recipes". These free are chapters of a book that is not yet finished by Hogg et al.
     - ["Choosing the binning for a histogram"](https://arxiv.org/abs/0807.4820) [arXiv:0807.4820]
     - ["Fitting a model to data](https://arxiv.org/abs/1008.4686) [arXiv:1008.4686]
     - ["Probability calculus for inference"](https://arxiv.org/abs/1205.4446) [arXiv:1205.4446]
     - ["Using Markov Chain Monte Carlo"](https://arxiv.org/abs/1710.06068) [arXiv:1710.06068]
     - ["Products of multivariate Gaussians in Bayesian inferences"](https://arxiv.org/abs/2005.14199) [arXiv:2005.14199]
- - [Bayesian inference: More than Bayes's theorem](https://arxiv.org/abs/2406.18905) Loredo and Wolpert, 2024 [arXiv:2005.14199]
- -  ["Practical Guidance for Bayesian Inference in Astronomy"](https://arxiv.org/abs/2302.04703), Eadie et al., 2023 [arXiv:2302.04703]
- - ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Geron, O'Reilly Media, 2019.
- - ["Machine Learning for Physics and Astronomy"](https://press.princeton.edu/books/paperback/9780691206417/machine-learning-for-physics-and-astronomy), Acquaviva, Princeton University Press, 2023.
- - ["A review of Unsupervised Learning in Astronomy"](https://arxiv.org/abs/2406.17316), S. Fotopoulou et al., 2024.
 
 We will make heavy usage of the python programming language. If you need to refresh your **python skills**, here are some catch-up resources and online tutorials. A strong python programming background is essential in modern astrophysics!   
 
