@@ -15,3 +15,9 @@ lectures/my_keras_model.h5
 lectures/trained_2e7_design_precessing_higherordermodes_3detectors.h5
 lectures/correlation_functions.pkl
 working/*.h5
+working/logs/tensorboard/conv1d/fold/fold_1/train/events.out.tfevents.1783763001.GALAXYBOOK-ANNA.12660.0.v2
+temp_out.txt
+.vscode/settings.json
+working/drsqso.dat
+working/logs/tensorboard/conv1d/fold/fold_1/train/events.out.tfevents.1783763075.GALAXYBOOK-ANNA.12660.1.v2
+working/logs/**/events.out*
