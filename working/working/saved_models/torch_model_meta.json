@@ -1,0 +1,14 @@
+{
+  "input_dim": 4,
+  "best_cfg": {
+    "hidden_layers": [
+      64,
+      32,
+      16
+    ],
+    "dropout": 0.2,
+    "lr": 0.001,
+    "weight_decay": 0.0,
+    "batch_size": 64
+  }
+}

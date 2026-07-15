@@ -1,0 +1,17 @@
+[
+  {
+    "model": "MLP (scikit-learn)",
+    "test_accuracy": 0.9685873520711812,
+    "test_roc_auc": 0.9927772293369668
+  },
+  {
+    "model": "TensorFlow",
+    "test_accuracy": 0.9829999804496765,
+    "test_roc_auc": 0.9888086915016174
+  },
+  {
+    "model": "PyTorch",
+    "test_accuracy": 0.9579573457550068,
+    "test_roc_auc": 0.9935512406701145
+  }
+]
